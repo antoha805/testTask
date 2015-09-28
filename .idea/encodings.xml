@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/config/local/database.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/views/index.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/views/layout.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/views/message.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/views/posters" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/public/images/no_image.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/public/images/no_image_sml.jpg" charset="UTF-8" />
+  </component>
+</project>
